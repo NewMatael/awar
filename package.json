@@ -1,0 +1,22 @@
+{
+  "name": "awar",
+  "version": "1.0.0",
+  "description": "\"# awar\"  git init git add README.md git commit -m \"primeiro commit\" git remoto add origem https://github.com/NewMatael/awar.git  git push -u origem master\r \"# awar\" \r \"awar\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewMatael/awar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewMatael/awar/issues"
+  },
+  "homepage": "https://github.com/NewMatael/awar#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

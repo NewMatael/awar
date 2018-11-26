@@ -1,0 +1,20 @@
+{
+  "name": "awar",
+  "homepage": "https://github.com/NewMatael/awar",
+  "authors": [
+    "'vinicius' <'aquiplaybr@gmail.com'>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
